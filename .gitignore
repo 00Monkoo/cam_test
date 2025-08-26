@@ -25,7 +25,11 @@
 
 storage.googleapis.com
 runs/*
-data/*
+data/*/*/train/
+data/*/*/valid/
+data/*/*/test/
+!data/*/*/data.yaml
+!data/*/*/README*
 data/images/*
 !data/*.yaml
 !data/hyps
