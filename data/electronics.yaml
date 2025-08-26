@@ -4,16 +4,17 @@ val: C:\Users\jjfer\OneDrive\Desktop\Cam_test\yolov5\data\datasets\electronics\v
 test: C:\Users\jjfer\OneDrive\Desktop\Cam_test\yolov5\data\datasets\electronics\test\images
 
 nc: 11
-names: [
-  'Airpods_Buds',
-  'Airpods_Case',
-  'Headphones',
-  'Ipad',
-  'Keyboard',
-  'Laptop',
-  'Monitor',
-  'Mouse',
-  'Phone',
-  'PlayStation_Controller',
-  'Xbox_Controller',
-]
+names:
+  [
+    "Airpods_Buds",
+    "Airpods_Case",
+    "Headphones",
+    "Ipad",
+    "Keyboard",
+    "Laptop",
+    "Monitor",
+    "Mouse",
+    "Phone",
+    "PlayStation_Controller",
+    "Xbox_Controller",
+  ]

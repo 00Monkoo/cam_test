@@ -4,4 +4,4 @@ val: C:\Users\jjfer\OneDrive\Desktop\Cam_test\yolov5\data\datasets\weapon_detect
 test: C:\Users\jjfer\OneDrive\Desktop\Cam_test\yolov5\data\datasets\weapon_detection\test\images
 
 nc: 5
-names: ['Knives', 'Person', 'Pistol', 'Rifle', 'non-weapon']
+names: ["Knives", "Person", "Pistol", "Rifle", "non-weapon"]

@@ -3,7 +3,7 @@ val: ../valid/images
 test: ../test/images
 
 nc: 5
-names: ['Knives', 'Person', 'Pistol', 'Rifle', 'non-weapon']
+names: ["Knives", "Person", "Pistol", "Rifle", "non-weapon"]
 
 roboflow:
   workspace: sanctum

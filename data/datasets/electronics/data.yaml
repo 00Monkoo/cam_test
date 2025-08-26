@@ -3,7 +3,20 @@ val: ../valid/images
 test: ../test/images
 
 nc: 11
-names: ['Airpods_Buds', 'Airpods_Case', 'Headphones', 'Ipad', 'Keyboard', 'Laptop', 'Monitor', 'Mouse', 'Phone', 'PlayStation_Controller', 'Xbox_Controller']
+names:
+  [
+    "Airpods_Buds",
+    "Airpods_Case",
+    "Headphones",
+    "Ipad",
+    "Keyboard",
+    "Laptop",
+    "Monitor",
+    "Mouse",
+    "Phone",
+    "PlayStation_Controller",
+    "Xbox_Controller",
+  ]
 
 roboflow:
   workspace: sanctum
