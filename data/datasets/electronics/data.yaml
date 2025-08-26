@@ -1,0 +1,26 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names:
+  [
+    "Airpods_Buds",
+    "Airpods_Case",
+    "Headphones",
+    "Ipad",
+    "Keyboard",
+    "Laptop",
+    "Monitor",
+    "Mouse",
+    "Phone",
+    "PlayStation_Controller",
+    "Xbox_Controller",
+  ]
+
+roboflow:
+  workspace: sanctum
+  project: electronics-j0cxl
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sanctum/electronics-j0cxl/dataset/3

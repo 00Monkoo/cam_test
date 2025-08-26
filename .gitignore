@@ -25,7 +25,15 @@
 
 storage.googleapis.com
 runs/*
-data/*
+data/datasets/electronics/test
+data/datasets/electronics/train
+data/datasets/electronics/valid
+data/datasets/weapon_detection/test
+data/datasets/weapon_detection/train
+data/datasets/weapon_detection/valid
+data/datasets/weapon_detection_remake/test
+data/datasets/weapon_detection_remake/train
+data/datasets/weapon_detection_remake/valid
 data/images/*
 !data/*.yaml
 !data/hyps
@@ -256,3 +264,6 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+#ignore Comet.ml runs
+.cometml-runs/

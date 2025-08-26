@@ -1,0 +1,7 @@
+path: ../datasets/weapon_detection_remake
+train: C:\Users\jjfer\OneDrive\Desktop\Cam_test\yolov5\data\datasets\weapon_detection_remake\train\images
+val: C:\Users\jjfer\OneDrive\Desktop\Cam_test\yolov5\data\datasets\weapon_detection_remake\valid\images
+test: C:\Users\jjfer\OneDrive\Desktop\Cam_test\yolov5\data\datasets\weapon_detection_remake\test\images
+
+nc: 4
+names: ["Knives", "Person", "Pistol", "Rifle"]
