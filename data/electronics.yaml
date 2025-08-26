@@ -1,0 +1,19 @@
+path: ../datasets/electronics
+train: C:\Users\jjfer\OneDrive\Desktop\Cam_test\yolov5\data\datasets\electronics\train\images
+val: C:\Users\jjfer\OneDrive\Desktop\Cam_test\yolov5\data\datasets\electronics\valid\images
+test: C:\Users\jjfer\OneDrive\Desktop\Cam_test\yolov5\data\datasets\electronics\test\images
+
+nc: 11
+names: [
+  'Airpods_Buds',
+  'Airpods_Case',
+  'Headphones',
+  'Ipad',
+  'Keyboard',
+  'Laptop',
+  'Monitor',
+  'Mouse',
+  'Phone',
+  'PlayStation_Controller',
+  'Xbox_Controller',
+]
